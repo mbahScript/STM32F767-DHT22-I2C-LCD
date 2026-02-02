@@ -36,7 +36,7 @@ The DHT22 protocol is timing-critical, so this implementation uses **TIM6** to g
 
 ---
 
-## 🔌 Pin Connections
+##  Pin Connections
 
 ### DHT22 Sensor
 
@@ -84,7 +84,7 @@ This ensures **stable and repeatable sensor readings**.
 
 ---
 
-## 📟 LCD Output Format
+##  LCD Output Format
 
 ```c
 TEMP: 24.60 C
@@ -98,7 +98,7 @@ Checksum/Error
 
 ---
 
-## 📚 Learning Reference
+##  Learning Reference
 
 This project was inspired by concepts from the  
 **ControllersTech YouTube channel**, adapted and extended for STM32F7 timing, HAL usage, and I²C LCD integration.
